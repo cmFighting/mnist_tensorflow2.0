@@ -1,0 +1,8 @@
+{
+    "python.pythonPath": "D:\\code\\conda\\envs\\qt_env\\python.exe",
+    "python.linting.pylintArgs": [
+
+        "--disable=W,C,E"
+        
+        ],
+}
