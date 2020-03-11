@@ -50,4 +50,4 @@ python mnist_window.py
 ## 捐助
 如果您觉得我的项目帮助了您，您可以给我一点小小的鼓励，您的鼓励将会是我进一步创作的动力！😁😁😁
 
-![ali](images/alipay.jpg) ![wx](images/wxpay.jpg)
+![ali](images/alipayx.jpg) ![wx](images/wxpayx.jpg)
